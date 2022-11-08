@@ -4,12 +4,12 @@
 
 - 👋 Hi, I’m @Simone-SAN
 - 🍕 I'm from Italy
-- 📝 I write articles on: <a href="https://www.hackerlog.net/">Hackerlog.net</a>
+- 📝 I often write articles on: <a href="https://www.hackerlog.net/">Hackerlog.net</a>
 - 📫 How to reach me **simone.san@proton.me**
 
-<h1>GITHUB STATS</h1>
+<div align = "rigth">
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simone-SAN&theme=dark&show_icons=true&hide_border=true&border_radius=15px&title_color=#32a852)</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simo-SAN26&theme=dark&show_icons=true&hide_border=true&border_radius=15px&title_color=#32a852)
 
 <h1>SKILL</h1>
 
