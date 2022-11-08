@@ -1,6 +1,6 @@
 
 
-<h1>Hi there 👋</h1>
+<h1 align = "center">Hi there 👋</h1>
 
 - 👋 Hi, I’m @Simone-SAN
 
