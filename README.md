@@ -4,7 +4,6 @@
 
 - 👋 Hi, I’m @Simone-SAN
 - 🍕 I'm from Italy
-- 📝 I often write articles on: <a href="https://www.hackerlog.net/">Hackerlog.net</a>
 - 📫 How to reach me **simone.san@proton.me**
 
 
