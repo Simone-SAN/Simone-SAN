@@ -6,10 +6,6 @@
 - 🍕 I'm from Italy
 - 📫 How to reach me **info@simonesantoro.com**
 
-
-![Simone Santoro's stats](https://github-readme-stats.vercel.app/api?username=Simone-SAN&theme=dark&show_icons=true&hide_border=true&border_radius=15px&title_color=#32a852)
-
-
 <h1 align = "center">SKILL</h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
